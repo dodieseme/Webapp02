@@ -28,8 +28,8 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-contact"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Contact Info</h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">needhelp@adfg.com <br>
-                              444 888 0000 <br> &nbsp; </p><!-- /.contact-info-one__text -->
+                          <p class="contact-info-one__text">dodieseme0077@gmail.com <br>
+                              6145999338 <br> &nbsp; </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
               </div><!-- /.row -->

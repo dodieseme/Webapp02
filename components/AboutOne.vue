@@ -14,7 +14,7 @@
                                 </h2><!-- /.block-title__title -->
                         </div><!-- /.block-title -->
                            <div class="text-left">
-                            <p> DFI is an international business development advisory firm providing a strategy-through-execution approach.  We deliver sales and market entry, sustainable supply chains, and measurable social and economic impact in emerging markets. </p>
+                            <p> kelly Eseme is an awsome guy and I respect him alot </p>
                            </div>
 
                            <div class="text-left">

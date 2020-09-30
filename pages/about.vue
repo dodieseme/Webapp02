@@ -35,7 +35,7 @@
     },
     head(){
       return {
-        title: "ADFG | About Us"
+        title: "Kellyeseme | About Us"
       }
     }
   }
