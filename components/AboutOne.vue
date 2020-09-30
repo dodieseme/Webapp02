@@ -10,7 +10,7 @@
                       <div class="card">
                         <div class="card-body">
                              <div class="block-title2 text-center">
-                            <h2 class="block-title__title2">About ADFG <br>
+                            <h2 class="block-title__title2">About Kellydodi<br>
                                 </h2><!-- /.block-title__title -->
                         </div><!-- /.block-title -->
                            <div class="text-left">
